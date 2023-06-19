@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/lyc/Document/lycsre.github.io",
+	"sourceRoot": "/Users/lyc/Documents/lycsre.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
