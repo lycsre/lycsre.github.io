@@ -1,4 +1,34 @@
 baseURL = 'https://lycsre.github.io/'
 languageCode = 'en-us'
-title = 'lycsre blog'
+title = 'LYCSRE'
 theme = 'ananke'
+commentoEnable = true
+# featured_image = 'https://openseauserdata.com/files/6a78913c131cfcd539813bd4b7c42459.png'
+featured_image = '/images/gohugo-default-sample-hero-image.jpg'
+
+
+# sectionPagesMenu = 'main'
+
+
+[menu]
+  [[menu.main]]
+    name = '生活紀錄'
+    pageRef = '/'
+    weight = 1
+
+[params]
+  # text_color = ""
+  # author = ""
+  # favicon = ""
+  # site_logo = ""
+  # description = "The last theme you'll ever need. Maybe."
+  [cascade]
+    featured_image = '/images/default.jpg'
+
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  # recent_posts_number = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
