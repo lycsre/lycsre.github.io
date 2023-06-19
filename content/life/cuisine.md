@@ -12,13 +12,13 @@ summary: "人家說新竹是美食沙漠，體感也確實是美食沙漠<br>在
 
 ## 牛肉麵
 ### 1. 三商巧福 新竹門市
-[![](http://localhost:1313/images/三商巧福.jpg)](https://goo.gl/maps/ZpCG3XUbetn9XPAaA)
+[![](/images/三商巧福.jpg)](https://goo.gl/maps/ZpCG3XUbetn9XPAaA)
 * 品項：紅燒牛肉麵
 * 餐點：⭐⭐⭐
 * 心得：曾經的牛肉麵霸主，現在只能作為牛肉麵美味程度的標準，沒比三商巧福好吃的不配稱作牛肉麵！！！
 
 ### 2. 段純貞 竹北店
-[![](http://localhost:1313/images/段純貞.jpg)](https://goo.gl/maps/WB5z4cU9tzsb4UB28)
+[![](/images/段純貞.jpg)](https://goo.gl/maps/WB5z4cU9tzsb4UB28)
 * 品項：紅燒牛肉麵($190), 人氣拼盤($140)
 * 餐點：⭐⭐⭐
 * 服務：⭐⭐⭐⭐⭐
@@ -28,7 +28,7 @@ summary: "人家說新竹是美食沙漠，體感也確實是美食沙漠<br>在
 
 ## 定食套餐
 ### 1. 滿嘴拉麵
-[![](http://localhost:1313/images/極·黃燜雞米飯.jpg)](https://goo.gl/maps/eEaCSg8hbuBjEYdNA)
+[![](/images/極·黃燜雞米飯.jpg)](https://goo.gl/maps/eEaCSg8hbuBjEYdNA)
 * 品項：川香麻辣牛($200)
 * 餐點：⭐⭐⭐
 * 服務：⭐⭐⭐⭐⭐
@@ -36,7 +36,7 @@ summary: "人家說新竹是美食沙漠，體感也確實是美食沙漠<br>在
 * 心得：環境佳，附有免費雞湯、白飯及飲料，CP值滿高的。適合喜歡吃辣的朋友，不過辣椒的香跟味都蓋過牛肉了有點可惜。
 
 ### 2. 極·黃燜雞米飯 新竹長春店
-[![](http://localhost:1313/images/極·黃燜雞米飯.jpg)](https://goo.gl/maps/vHgym56zdwGLotsG7)
+[![](/images/極·黃燜雞米飯.jpg)](https://goo.gl/maps/vHgym56zdwGLotsG7)
 * 品項：川香麻辣牛($200)
 * 餐點：⭐⭐⭐
 * 服務：⭐⭐⭐⭐⭐
@@ -46,7 +46,7 @@ summary: "人家說新竹是美食沙漠，體感也確實是美食沙漠<br>在
 
 ### 傳統小吃
 ### 1. 許二姐(鴨肉許)
-[![](http://localhost:1313/images/許二姐.jpg)](https://goo.gl/maps/eWcDxjsZMrHpnog37)
+[![](/images/許二姐.jpg)](https://goo.gl/maps/eWcDxjsZMrHpnog37)
 * 品項：炒鴨肉麵($85), 鴨腸湯($75)
 * 餐點：⭐⭐⭐⭐⭐
 * 服務：⭐⭐⭐
